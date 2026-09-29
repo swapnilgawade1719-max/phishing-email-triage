@@ -1,0 +1,41 @@
+Return-Path: <alerts@office365-support-desk.com>
+Received: from mail.office365-support-desk.com (unknown [193.42.61.204])
+	by mx.northwind-trading.com (Postfix) with ESMTPS id 4F2A11C0
+	for <swapnil@northwind-trading.com>; Fri, 21 Nov 2026 03:11:47 -0800 (PST)
+Received: from WIN-BULK-07 (localhost [127.0.0.1])
+	by mail.office365-support-desk.com (Postfix) with ESMTP id 9C31E220;
+	Fri, 21 Nov 2026 11:11:44 +0000 (UTC)
+Authentication-Results: mx.northwind-trading.com;
+	spf=fail (sender IP is 193.42.61.204) smtp.mailfrom=office365-support-desk.com;
+	dkim=none (message not signed);
+	dmarc=fail (p=quarantine sp=quarantine) header.from=office365-support-desk.com
+From: "Microsoft 365 Security" <no-reply@office365-support-desk.com>
+Reply-To: <recover-account@mail-sec-team.com>
+To: swapnil@northwind-trading.com
+Subject: [Action Required] Unusual sign-in activity detected - verify within 24 hours
+Date: Fri, 21 Nov 2026 11:11:44 +0000
+Message-ID: <20261121111144.9C31E220@office365-support-desk.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: PHPMailer 6.1.7
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>We detected an <b>unusual sign-in attempt</b> to your Microsoft 365
+account from an unrecognized device located in <b>Lagos, Nigeria</b>.</p>
+<p>For your protection, access to your mailbox has been temporarily limited.
+You must re-verify your identity within <b>24 hours</b> or your account will
+be permanently suspended.</p>
+<p>
+<a href="http://m365-secure-verify.com/login?u=swapnil@northwind-trading.com">
+https://login.microsoftonline.com/verify-account</a>
+</p>
+<p>If you do not complete verification, all mailbox access will be lost.</p>
+<p>Thank you,<br>
+The Microsoft 365 Security Team</p>
+<p style="font-size:10px;color:#888888">This is an automated message. Please
+do not reply.</p>
+</body>
+</html>
